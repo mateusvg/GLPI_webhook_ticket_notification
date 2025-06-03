@@ -1,0 +1,11 @@
+{
+  "name": "meuplugin",
+  "version": "1.0.0",
+  "author": "Você",
+  "license": "GPLv2+",
+  "homepage": "https://exemplo.com",
+  "minGlpiVersion": "10.0.0",
+  "maxGlpiVersion": "10.0.99",
+  "require": [],
+  "csrf-compliant": true
+}
